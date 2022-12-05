@@ -56,7 +56,7 @@ El nombre de la función debe indicar el número de grupo.
 
 ### Ensayos
 
-30 minutos después de que empiece la competencia y hasta 10 minutos antes de la entrega se le dará tiempo para hacer pruebas a los grupos. Tendrán un slot de 5 minutos para pruebas y la precedencia de grupos estará dada por una cola donde luego de haber hecho pruebas pasan al final.
+1 hora después de que se presente la consigna y hasta 10 minutos antes de la entrega se le dará tiempo para hacer pruebas a los grupos. Tendrán un slot de 5 minutos para pruebas y la precedencia de grupos estará dada por una cola donde luego de haber hecho pruebas pasan al final.
 
 ## Entrega
 
