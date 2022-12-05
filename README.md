@@ -50,7 +50,7 @@ def visual_driver_group_x(image: np.ndarray):
 Recibe una imagen BGR como un numpy.ndarray de la forma: (480, 640, 3)
 
 Debe devolver un comando de velocidad lineal y angular en m/s y Rad/s respectivamente.
-El nombre de la función debe indicar el número de grupo
+El nombre de la función debe indicar el número de grupo.
 
 ![ driving ](/assets/robot.gif  "Driving with simple heuristic" )
 
@@ -64,7 +64,7 @@ El entregable será un único archivo .py de menos de 500 líneas de código, qu
 
 ### Módulos
 
-Se pueden usar las librerías estándar de Python y otras librériías comunes como: Numpy, CV2 v4.2.0, Pandas, etc.
+Se pueden usar las librerías estándar de Python y otras librerías comunes como: Numpy, CV2 v4.2.0, Pandas, etc.
 Si se quiere usar alguna librería menos usual, testear que funcione en la computadora del robot.
 
 ## Links útiles
