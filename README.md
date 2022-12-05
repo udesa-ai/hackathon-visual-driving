@@ -3,7 +3,7 @@
 ## Introducción
 
 El objetivo de la competencia es crear una función de Python que maneje un Turtlebot basado en un feed de video.
-![ recorrido ](/assets/camera_placement.png "Posición de la cámara desde el piso")
+![ robot ](/assets/camera_placement.png "Posición de la cámara desde el piso")
 
 ### Información y plantilla
 
@@ -17,7 +17,8 @@ Los grupos pueden tener hasta 5 integrantes. Se les asignará un número en el p
 
 ### Recorrido
 
-![ recorrido ](/assets/track.png "Un recorrido posible")
+![ recorrido ](/assets/track.jpg "Un recorrido posible")
+
 El recorrido será aproximadamente ⅛ del círculo central de UdeSA, la línea de partida y llegada estarán marcadas en el piso con cinta de papel blanca de 25mm.
 
 ### Puntaje
@@ -51,7 +52,7 @@ Recibe una imagen BGR como un numpy.ndarray de la forma: (480, 640, 3)
 Debe devolver un comando de velocidad lineal y angular en m/s y Rad/s respectivamente.
 El nombre de la función debe indicar el número de grupo
 
-![ recorrido ](/assets/robot.gif  "Driving with simple heuristic" )
+![ driving ](/assets/robot.gif  "Driving with simple heuristic" )
 
 ### Ensayos
 
