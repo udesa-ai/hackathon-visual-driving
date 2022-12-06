@@ -3,11 +3,13 @@
 ## Introducción
 
 El objetivo de la competencia es crear una función de Python que maneje un Turtlebot basado en un feed de video.
-![ robot ](/assets/camera_placement.png "Posición de la cámara desde el piso")
+![competencia](/assets/challenge.jpg "data workflow")
 
 ### Información y plantilla
 
 Se provee una [plantilla](template.py) con una función de ayuda. También se provee [videos](videos) e [imágenes](images) de prueba grabadas con la cámara del robot.
+
+![ robot ](/assets/camera_placement.jpg "Posición de la cámara desde el piso")
 
 ### Grupos
 
@@ -20,6 +22,10 @@ Los grupos pueden tener hasta 5 integrantes. Se les asignará un número en el p
 ![ recorrido ](/assets/track.jpg "Un recorrido posible")
 
 El recorrido será aproximadamente ⅛ del círculo central de UdeSA, la línea de partida y llegada estarán marcadas en el piso con cinta de papel blanca de 25mm.
+
+### Prueba
+
+El robot se lo inicia en una posición aleatoria en el tercio central de la pasarela y con un ángulo aleatorio de hasta 30° con el camino. Se enciende el robot detras de la linea de largada y se toma el tiempo desde que cruza la largada hasta la llegada. Si alguna de las ruedas del robot se salise del cemento o se queda trabado se termina la prueba.
 
 ### Puntaje
 
@@ -56,7 +62,7 @@ El nombre de la función debe indicar el número de grupo.
 
 ### Ensayos
 
-1 hora después de que se presente la consigna y hasta 10 minutos antes de la entrega se le dará tiempo para hacer pruebas a los grupos. Tendrán un slot de 5 minutos para pruebas y la precedencia de grupos estará dada por una cola donde luego de haber hecho pruebas pasan al final.
+1 hora después de que se presente la consigna y hasta 10 minutos antes de la entrega se le dará tiempo para hacer pruebas a los grupos. Tendrán un slot de 5 minutos para pruebas y la precedencia de grupos estará dada por una cola donde luego de haber hecho pruebas pasan al final del orden de prioridad.
 
 ## Entrega
 
