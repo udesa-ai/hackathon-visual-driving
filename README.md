@@ -7,7 +7,7 @@ El objetivo de la competencia es crear una función de Python que maneje un Turt
 
 ### Información y plantilla
 
-Se provee una plantilla con una función de ayuda. También se provee un [video](TODO.com "en google drive") grabado con la cámara a usarse y un set de imágenes de prueba.
+Se provee una [plantilla](template.py) con una función de ayuda. También se provee [videos](videos) e [imágenes](images) de prueba grabadas con la cámara del robot.
 
 ### Grupos
 
