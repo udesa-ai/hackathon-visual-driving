@@ -13,7 +13,7 @@ Se provee una [plantilla](template.py) con una función de ayuda. También se pr
 
 ### Grupos
 
-Los grupos pueden tener hasta 5 integrantes. Se les asignará un número en el proceso de inscripción.
+Los grupos pueden tener 6 integrantes o menos. Se les asignará un número en el proceso de inscripción.
 
 ## Competencia
 
